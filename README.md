@@ -21,13 +21,13 @@ Data Structures (MIVNEI) (course number - 234218):
 [HW2 - Dynamic Hash Table, Union Find.](https://github.com/guyfriedman2001/Data-Structures-wet-2)
 
 
-Digital Systems and computer structure (SIFRATIOT) (course number - 044252):
+Digital Systems and Computer Structure (SIFRATIOT) (course number - 044252):
 
-[HW1 - (coming soon).]()
+[HW1 - (coming soon).](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW1/tree/main)
 
-[HW2 - (coming soon).]()
+[HW2 - (coming soon).](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW2/tree/main)
 
-[HW3 - (coming soon).]()
+[HW3 - (coming soon).](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW3)
 
 
 Operating Systems (HAFALA) (course number - 234123):
