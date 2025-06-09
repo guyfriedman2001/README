@@ -18,7 +18,7 @@
 
 ### Data Structures (MIVNEI) (course number - 234218):
 
-[Course Syllabus. (coming soon)]()
+[Course Schedule.](IGNOREME/syllabus_mivnei_1.pdf) [Course Policies.](IGNOREME/syllabus_mivnei_2.pdf)
 
 [HW1 - AVL Binary Search Balancing Trees.](https://github.com/guyfriedman2001/Data-Structures-wet-1)
 
@@ -64,7 +64,7 @@
 
 ### Algorithms 1 (ALGO) (Course Number - 23427): (only contains algorithm descriptions)
 
-[Course Syllabus. (coming soon)]()
+[Course Schedule.]() [Course Policies.]()
 
 [HW1 - (coming soon).]()
 
