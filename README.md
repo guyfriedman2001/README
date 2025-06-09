@@ -3,7 +3,7 @@
 
 ### Introduction to systems programming (MATAM) (course number - 234124):
 
-[Course Syllabus. (coming soon)]()
+[Course Syllabus.](IGNOREME/syllabus matam.pdf)
 
 [HW1 - 'Blockchains' (Linked List) using structs.](https://github.com/guyfriedman2001/Introd.-to-systems-prog.-MATAM-234124-HW1)
 
