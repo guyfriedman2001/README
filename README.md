@@ -1,7 +1,7 @@
 # My Repositories
 ## Projects From Courses:
 
-Introduction to systems programming (MATAM) (course number - 234124):
+### Introduction to systems programming (MATAM) (course number - 234124):
 
 [HW1 - 'Blockchains' (Linked List) using structs.](https://github.com/guyfriedman2001/Introd.-to-systems-prog.-MATAM-234124-HW1)
 
@@ -14,14 +14,14 @@ Introduction to systems programming (MATAM) (course number - 234124):
 [HW5 - Enigma machine in Python.](https://github.com/guyfriedman2001/Introd.-to-systems-prog.-MATAM-234124-HW5)
 
 
-Data Structures (MIVNEI) (course number - 234218):
+### Data Structures (MIVNEI) (course number - 234218):
 
 [HW1 - AVL Binary Search Balancing Trees.](https://github.com/guyfriedman2001/Data-Structures-wet-1)
 
 [HW2 - Dynamic Hash Table, Union Find.](https://github.com/guyfriedman2001/Data-Structures-wet-2)
 
 
-Digital Systems and Computer Structure (SIFRATIOT) (course number - 044252):
+### Digital Systems and Computer Structure (SIFRATIOT) (course number - 044252):
 
 [HW1 - (coming soon).](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW1/tree/main)
 
@@ -30,7 +30,7 @@ Digital Systems and Computer Structure (SIFRATIOT) (course number - 044252):
 [HW3 - (coming soon).](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW3)
 
 
-Operating Systems (HAFALA) (course number - 234123):
+### Operating Systems (HAFALA) (course number - 234123):
 
 [HW1 - Custom Shell. (coming soon)](https://github.com/guyfriedman2001/234123_HW1)
 
@@ -41,7 +41,7 @@ Operating Systems (HAFALA) (course number - 234123):
 [HW4 - (coming soon).]()
 
 
-Computer Organization And Programming (ATAM) (Course Number - 234118):
+### Computer Organization And Programming (ATAM) (Course Number - 234118):
 
 [HW1 - (coming soon).](https://github.com/guyfriedman2001/Comp.-Org.-And-Prog.-ATAM-234118-HW1)
 
