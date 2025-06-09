@@ -29,11 +29,11 @@
 
 [Course Syllabus](syllabus_sifratiot.pdf).
 
-[HW1 - (coming soon)](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW1/tree/main).
+[HW1 - ](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW1/tree/main). (coming soon)
 
-[HW2 - (coming soon)](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW2/tree/main).
+[HW2 - ](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW2/tree/main). (coming soon)
 
-[HW3 - (coming soon)](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW3).
+[HW3 - ](https://github.com/guyfriedman2001/Comp.-Struct.-and-Digital-Systems-SIFRATIOT-044252-HW3). (coming soon)
 
 
 ### Operating Systems (HAFALA) (course number - 234123):
