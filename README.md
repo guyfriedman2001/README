@@ -18,7 +18,7 @@
 
 ### Data Structures (MIVNEI) (course number - 234218):
 
-[Course Schedule.](IGNOREME/syllabus_mivnei_1.pdf) [Course Policies.](IGNOREME/syllabus_mivnei_2.pdf)
+[Course Schedule.](IGNOREME/syllabus_mivnei_schedule.pdf) [Course Policies.](IGNOREME/syllabus_mivnei_policies.pdf)
 
 [HW1 - AVL Binary Search Balancing Trees.](https://github.com/guyfriedman2001/Data-Structures-wet-1)
 
@@ -51,7 +51,7 @@
 
 ### Computer Organization And Programming (ATAM) (Course Number - 234118):
 
-[Course Syllabus. (coming soon)]()
+[Course Syllabus. (coming soon)](IGNOREME/)
 
 [HW1 - (coming soon).](https://github.com/guyfriedman2001/Comp.-Org.-And-Prog.-ATAM-234118-HW1)
 
@@ -64,19 +64,19 @@
 
 ### Algorithms 1 (ALGO) (Course Number - 23427): (only contains algorithm descriptions)
 
-[Course Schedule.]() [Course Policies.]()
+[Course Schedule.](IGNOREME/syllabus_algo_schedule.pdf) [Course Policies.](IGNOREME/syllabus_algo_policies.pdf)
 
-[HW1 - (coming soon).]()
+[HW1 - (coming soon).](_IGNOREME/algo_hw1.pdf)
 
-[HW2 - (coming soon).]()
+[HW2 - (coming soon).](_IGNOREME/algo_hw2.pdf)
 
-[HW3 - (coming soon).]()
+[HW3 - (coming soon).](_IGNOREME/algo_hw3.pdf)
 
-[HW4 - (coming soon).]()
+[HW4 - (coming soon).](_IGNOREME/algo_hw4.pdf)
 
-[HW5 - (coming soon).]()
+[HW5 - (coming soon).](_IGNOREME/algo_hw5.pdf)
 
-[HW6 - (coming soon).]()
+[HW6 - (coming soon).](_IGNOREME/algo_hw6.pdf)
 
 
 
