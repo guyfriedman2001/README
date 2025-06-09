@@ -52,6 +52,22 @@
 [HW4 - (coming soon).]()
 
 
+### Algorithms 1 (ALGO) (Course Number - 23427): (only contains algorithm descriptions)
+
+[HW1 - (coming soon).]()
+
+[HW2 - (coming soon).]()
+
+[HW3 - (coming soon).]()
+
+[HW4 - (coming soon).]()
+
+[HW5 - (coming soon).]()
+
+[HW6 - (coming soon).]()
+
+
+
 ## Personal Projects:
 
 [Utilities for HAFALA and ATAM.](https://github.com/guyfriedman2001/hafala-atam-utilities)
