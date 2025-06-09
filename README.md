@@ -1,5 +1,5 @@
-## My Repositories
-# Projects From Courses:
+# My Repositories
+## Projects From Courses:
 
 Introduction to systems programming (MATAM) (course number - 234124):
 
@@ -50,3 +50,11 @@ Computer Organization And Programming (ATAM) (Course Number - 234118):
 [HW3 - (coming soon).](https://github.com/guyfriedman2001/234118_HW3)
 
 [HW4 - (coming soon).]()
+
+
+## Personal Projects:
+
+[Utilities for HAFALA and ATAM.](https://github.com/guyfriedman2001/hafala-atam-utilities)
+
+[Custom Data Structures - Coming soon.](https://github.com/guyfriedman2001/GuysUtil)
+
