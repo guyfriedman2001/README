@@ -57,7 +57,7 @@
 
 [HW2 - did not include a 'wet' (coding) part]().
 
-[HW3 - ](https://github.com/guyfriedman2001/234118_HW3). (coming soon)
+[HW3 - Modyfing the Kernel's IDT](https://github.com/guyfriedman2001/234118_HW3). (coming soon)
 
 [HW4 - ](). (coming soon)
 
