@@ -40,7 +40,7 @@
 
 [Course Syllabus](). (coming soon)
 
-[HW1 - Custom Shell](https://github.com/guyfriedman2001/234123_HW1). (coming soon)
+[HW1 - Custom Shell](https://github.com/guyfriedman2001/234123_HW1).
 
 [HW2 - Customising Kernel Files, Customised PCB](https://github.com/guyfriedman2001/234123_HW2). (coming soon)
 
@@ -53,7 +53,7 @@
 
 [Course Syllabus](IGNOREME/syllabus_atam.pdf).
 
-[HW1 - ](https://github.com/guyfriedman2001/Comp.-Org.-And-Prog.-ATAM-234118-HW1). (coming soon)
+[HW1 - X86-64 Assembly operations using only registers for temporary results (no memory usage)](https://github.com/guyfriedman2001/Comp.-Org.-And-Prog.-ATAM-234118-HW1). (coming soon)
 
 [HW2 - did not include a 'wet' (coding) part]().
 
@@ -85,4 +85,7 @@
 [Utilities for HAFALA and ATAM](https://github.com/guyfriedman2001/hafala-atam-utilities).
 
 [Custom Data Structures](https://github.com/guyfriedman2001/GuysUtil). (coming soon)
+
+[Bomb Shelter LettCode](). (coming soon)
+
 
