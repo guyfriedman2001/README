@@ -86,6 +86,6 @@
 
 [Custom Data Structures](https://github.com/guyfriedman2001/GuysUtil). (coming soon)
 
-[Bomb Shelter LettCode](). (coming soon)
+[Bomb Shelter LeetCode](https://github.com/guyfriedman2001/bomb-shelter-leetcode).
 
 
