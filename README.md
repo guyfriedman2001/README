@@ -55,7 +55,7 @@
 
 [HW1 - X86-64 Assembly operations using only registers for temporary results (no memory usage)](https://github.com/guyfriedman2001/Comp.-Org.-And-Prog.-ATAM-234118-HW1). (coming soon)
 
-[HW2 - did not include a 'wet' (coding) part]().
+[HW2 - ](). (coming soon)
 
 [HW3 - Modyfing the Kernel's IDT](https://github.com/guyfriedman2001/234118_HW3). (coming soon)
 
@@ -68,17 +68,17 @@
 
 [Course Schedule](IGNOREME/syllabus_algo_schedule.pdf).    [Course Policies](IGNOREME/syllabus_algo_policies.pdf).
 
-[HW1 - ](_IGNOREME/algo_hw1.pdf). (coming soon)
+[HW1 - ](IGNOREME/algo_hw1.pdf). (coming soon)
 
-[HW2 - ](_IGNOREME/algo_hw2.pdf). (coming soon)
+[HW2 - ](IGNOREME/algo_hw2.pdf). (coming soon)
 
-[HW3 - ](_IGNOREME/algo_hw3.pdf). (coming soon)
+[HW3 - ](IGNOREME/algo_hw3.pdf). (coming soon)
 
-[HW4 - ](_IGNOREME/algo_hw4.pdf). (coming soon)
+[HW4 - ](IGNOREME/algo_hw4.pdf). (coming soon)
 
-[HW5 - ](_IGNOREME/algo_hw5.pdf). (coming soon)
+[HW5 - ](IGNOREME/algo_hw5.pdf). (coming soon)
 
-[HW6 - ](_IGNOREME/algo_hw6.pdf). (coming soon)
+[HW6 - ](IGNOREME/algo_hw6.pdf). (coming soon)
 
 
 
