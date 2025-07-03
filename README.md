@@ -40,26 +40,28 @@
 
 [Course Syllabus](). (coming soon)
 
-[HW1 - Custom Shell](https://github.com/guyfriedman2001/234123_HW1). (coming soon)
+[HW1 - Custom Shell](https://github.com/guyfriedman2001/234123_HW1).
 
 [HW2 - Customising Kernel Files, Customised PCB](https://github.com/guyfriedman2001/234123_HW2). (coming soon)
 
 [HW3 - Multi-Threaded Server with Statistics](https://github.com/guyfriedman2001/234123_HW3). (coming soon)
 
-[HW4 - Virtual Memory](). (coming soon)
+[HW4 - Virtual Memory](https://github.com/guyfriedman2001/OS-HAFALA-234123-HW4.git). (coming soon)
 
 
 ### Computer Organization And Programming (ATAM) (Course Number - 234118):
 
 [Course Syllabus](IGNOREME/syllabus_atam.pdf).
 
-[HW1 - ](https://github.com/guyfriedman2001/Comp.-Org.-And-Prog.-ATAM-234118-HW1). (coming soon)
+[HW1 - X86-64 Assembly operations using only registers for temporary results (no memory usage)](https://github.com/guyfriedman2001/Comp.-Org.-And-Prog.-ATAM-234118-HW1). (coming soon)
 
 [HW2 - did not include a 'wet' (coding) part]().
 
-[HW3 - ](https://github.com/guyfriedman2001/234118_HW3). (coming soon)
+[HW3 - Modyfing the Kernel's IDT](https://github.com/guyfriedman2001/234118_HW3). (coming soon)
 
-[HW4 - ](). (coming soon)
+[HW4 - ](https://github.com/yonadavkakun/HW4_ATAM). (coming soon)
+
+[HW5 - ](). (coming soon)
 
 
 ### Algorithms 1 (ALGO) (Course Number - 23427): (only contains algorithm descriptions)
@@ -85,4 +87,7 @@
 [Utilities for HAFALA and ATAM](https://github.com/guyfriedman2001/hafala-atam-utilities).
 
 [Custom Data Structures](https://github.com/guyfriedman2001/GuysUtil). (coming soon)
+
+[Bomb Shelter LeetCode](https://github.com/guyfriedman2001/bomb-shelter-leetcode).
+
 
