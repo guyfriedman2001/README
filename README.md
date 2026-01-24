@@ -67,7 +67,7 @@ Course Syllabus - NA.
 
 [HW3 - Modyfing the Kernel's IDT](https://github.com/guyfriedman2001/234118_HW3).
 
-[HW4 - ](https://github.com/yonadavkakun/HW4_ATAM).
+[HW4 - security bugs exploitation](https://github.com/yonadavkakun/HW4_ATAM).
 <!--
 
 [HW5 - ]().
