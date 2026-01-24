@@ -1,0 +1,2 @@
+# Disclaimer:
+## This code is provided as is for educational purposes and as a reference. The author is not responsible for any consequences, including but not limited to academic misconduct, that may arise from inappropriate use of this code. It is the user's responsibility to abide by their institution's academic integrity policies. Copying this code and using it without understanding or crediting the source may be considered plagiarism by your institution.
