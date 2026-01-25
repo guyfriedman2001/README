@@ -1,5 +1,5 @@
 # My Repositories
-## Projects From Courses:
+## Projects From Courses (Chronologically sorted):
 
 ### Students: please read the [disclaimer](IGNOREME/disclaimer.md).
 
