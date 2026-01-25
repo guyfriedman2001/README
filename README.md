@@ -3,7 +3,7 @@
 
 ### Students: please read the [disclaimer](IGNOREME/disclaimer.md).
 
-#### Note: some links may lead to repositories which are still private (for various reasons), (CONTINUE)
+#### Note: Some links may appear broken or inaccessible. These typically point to repositories that are intentionally kept private due to course policies, academic integrity requirements, or ongoing refactoring and cleanup. If a specific project or implementation is of interest, I am happy to provide access or discuss the work in detail upon request. 
 
 ### Introduction to systems programming (MATAM) (course number - 234124):
 
