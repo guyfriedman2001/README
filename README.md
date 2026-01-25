@@ -92,8 +92,51 @@ Course Syllabus - NA.
 [HW5 - ](IGNOREME/algo_hw5.pdf). (coming soon)
 
 [HW6 - ](IGNOREME/algo_hw6.pdf). (coming soon)
-
 -->
+
+
+### Programming Languages (SAFOT) (Course Number - 236319):
+
+[Course Schedule]().    [Course Policies]().
+
+[HW1 - ]().
+
+[HW2 - ]().
+
+[HW3 - ]().
+
+[HW4 - ]().
+
+[HW5 - ]().
+
+[HW6 - ]().
+
+
+### Intro to AI (Mavo Bina) (Course Number - 236501):
+
+[Course Schedule]().    [Course Policies]().
+
+[HW1 - ]().
+
+[HW2 - ]().
+
+[HW3 - ]().
+
+### Computer Architecture (MAMAS) (Course Number - 236267):
+
+[Course Schedule]().    [Course Policies]().
+
+<!--
+[HW1 - ]().
+-->
+
+[HW2 - ]().
+
+<!--
+[HW3 - ]().
+-->
+
+
 
 
 ## Public Personal Projects:
@@ -101,8 +144,7 @@ Course Syllabus - NA.
 [Utilities for HAFALA and ATAM](https://github.com/guyfriedman2001/hafala-atam-utilities).
 
 <!--
-
-[Custom Data Structures](https://github.com/guyfriedman2001/GuysUtil). (coming soon)
+[Custom Data Structures](https://github.com/guyfriedman2001/GuysUtil).
 -->
 
 [Bomb Shelter LeetCode](https://github.com/guyfriedman2001/bomb-shelter-leetcode).
