@@ -3,6 +3,8 @@
 
 ### Students: please read the [disclaimer](IGNOREME/disclaimer.md).
 
+#### Note: some links may lead to repositories which are still private (for various reasons), (CONTINUE)
+
 ### Introduction to systems programming (MATAM) (course number - 234124):
 
 [Course Syllabus](IGNOREME/syllabus_matam.pdf).
