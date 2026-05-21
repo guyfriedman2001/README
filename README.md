@@ -136,6 +136,9 @@ Course Syllabus - NA.
 [HW3 - ]().
 -->
 
+### Advanced Topics in Distributed, Decentralised and Concurrent Systems (no shorthand) (Course Number - 236012):
+
+[All submissions, papers, presentations and reviews are aggregetad in a single repository.](https://github.com/guyfriedman2001/236012-A-Seminar-In-Advnaced-Topics-in-Concurrent-Distributed-and-Decentralised-Systems).
 
 
 
